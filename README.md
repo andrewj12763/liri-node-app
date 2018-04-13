@@ -1,2 +1,2 @@
 # liri-node-app
-![Optional Text](../master/myFolder/Capture.png)
+![alt text](https://raw.githubusercontent.com/andrewj12763/liri-node-app/branch/path/to/Capture.png)
