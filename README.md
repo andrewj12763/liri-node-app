@@ -1,2 +1,2 @@
 # liri-node-app
-![Optional Text](../master/myFolder/image.png)
+![Optional Text](../master/myFolder/Capture.png)
